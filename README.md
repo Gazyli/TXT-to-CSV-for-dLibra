@@ -38,7 +38,7 @@ Paginacja: [...]
 "GroupTitle";"[...]"
 ```
 
-## How tu use
+## How to use
 
 1. place [lista.py](lista.py) in the same folder as the .txt file named ```lista.txt```
 2. run the program (e.g. using Jetbrains Pycharm)
