@@ -43,4 +43,4 @@ Paginacja: [...]
 1. place [lista.py](lista.py) in the same folder as the .txt file named ```lista.txt```
 2. run the program (e.g. using Jetbrains Pycharm)
 3. a number of CSV files will be generated, each named with their according number (e.g. ```123.txt```)
-4. the program will also generate a ```lista_updated``` which is a copy of ```lista.txt``` but with fixed numbering issues
+4. the program will also generate a ```lista_updated.txt``` which is a copy of ```lista.txt``` but with fixed numbering issues
